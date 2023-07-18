@@ -2,6 +2,8 @@
 
 A simple onboarding screen for SwiftUI that mimicks the iOS onboarding screen
 
+![Screenshot of OnboardView example](https://adamlyttleapps.com/git/onboardingview-hero-600.jpg)
+
 **Usage:**
 
 ```
@@ -21,3 +23,9 @@ OnboardingView(appName: "Real Estate Calculator", features: [
   * description: Details about the feature
   * icon: Any SF Symbol name
 * color: The color scheme to be used
+
+**About Adam Lyttle:**
+
+Follow me on Twitter: [twitter.com/adamlyttleapps](https://twitter.com/adamlyttleapps)
+
+Visit my website: [adamlyttleapps.com](https://adamlyttleapps.com)
